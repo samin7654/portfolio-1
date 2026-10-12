@@ -1,6 +1,6 @@
 ﻿# Mary Hardy – Personal Portfolio Website
 
-![Portfolio website screenshot](screenshot.png)
+![Portfolio website screenshot](https://github.com/samin7654/portfolio-1/blob/main/Screenshot%202026-10-12%20185043.png)
 
 A responsive personal portfolio website that presents a web designer and developer's skills, education, experience and contact details in a clean one-page layout.
 
