@@ -47,3 +47,16 @@ No external libraries or frameworks are required. The project uses plain HTML an
 3. Open `index.html` in your browser (double-click it, or use the VS Code **Live Server** extension).
 
 ## 📁 Project Structure
+
+```
+portfolio-1/
+├── images/        # profile photo and icons
+├── new-images/    # gallery images
+├── index.html     # main page
+├── style.css      # styling
+├── Screenshot 2026-10-12 185043.png
+└── README.md
+```
+## 👤 Author
+
+**MD. Samin Yasar** – [GitHub](https://github.com/samin7654)
